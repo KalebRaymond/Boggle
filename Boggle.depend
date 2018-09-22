@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1537656623 source:d:\c++ backup\programs\self\boggle\boggle_classes.cpp
+	<boggle_classes.h>
+
+1537657298 source:d:\c++ backup\programs\self\boggle\main.cpp
+	"boggle_classes.cpp"
+	"helper_functions.h"
+
+1537656623 d:\c++ backup\programs\self\boggle\boggle_classes.cpp
+	<boggle_classes.h>
+
+1537657482 d:\c++ backup\programs\self\boggle\helper_functions.h
+	<vector>
+	<fstream>
+	<unordered_map>
+	<cctype>
+	<boggle_classes.h>
+
+1537657482 source:d:\c++ backup\programs\self\boggle\helper_functions.cpp
+	<helper_functions.h>
+
